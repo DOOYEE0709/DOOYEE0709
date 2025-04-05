@@ -37,3 +37,8 @@
 ### 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hyeonta03@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/DooYee)
+
+### 📎 ETC
+![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeonta03)  
+🧩 I solve Baekjoon problems when I’m bored or have some free time.
+
