@@ -44,6 +44,6 @@
 
 [![DooYee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DooYee0709&show_icons=true&theme=ambient_gradient&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DooYee0709&layout=compact&theme=ambient_gradient&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DooYee0709&layout=compact&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=DooYee0709&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
