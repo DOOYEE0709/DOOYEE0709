@@ -1,7 +1,6 @@
 # 🔥 Hi, I'm DooYee! N2MU!!! 🔥
 ### 🚀 About Me
 - 🎓 Studying Computer Science
-- 🚀 Full-Stack Developer
 - 📚 I'm passionate about gaining knowledge!
 
 ## 🛠️ Technologies
