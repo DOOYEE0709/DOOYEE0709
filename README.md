@@ -3,6 +3,11 @@
 - 🎓 Studying Computer Science
 - 📚 I'm passionate about gaining knowledge!
 
+## 📈 Productivity Box
+
+<!-- PRODUCTIVE_BOX_START -->
+<!-- PRODUCTIVE_BOX_END -->
+
 ## 🛠️ Technologies
 
 ### 📌 Languages
