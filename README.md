@@ -22,9 +22,10 @@
 
 ### 📑 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 🏗️ Currently Learning
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 ### ⚙️ Tools
@@ -38,11 +39,4 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/DooYee)
 
 ### 📎 ETC
-![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeonta03)  
-🧩 I solve Baekjoon problems when I’m bored or have some free time.
-
-[![DooYee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DooYee0709&show_icons=true&theme=ambient_gradient&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DooYee0709&layout=compact&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=DooYee0709&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
