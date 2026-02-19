@@ -38,3 +38,6 @@
 
 ### 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:somewhere.dooyee@gmail.com)
+
+### 📎 ETC
+![Top Langs](https://github-readme-stats-beta-brown-34.vercel.app/api/top-langs?username=DooYee0709&layout=compact&bg_color=45,fff3b0,87ceeb&title_color=e67e22&text_color=2c3e50&icon_color=f1c40f&count_private=true&card_width=450&border_radius=20)
