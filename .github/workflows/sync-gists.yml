@@ -20,6 +20,8 @@ jobs:
               with:
                   node-version: 20
             - run: node .github/scripts/sync-gists.js
+              env:
+                  GIST_TOKEN: ${{ secrets.GIST_TOKEN }} # PAT; Actions' GITHUB_TOKEN can't read gists
             - name: Commit if changed
               run: |
                   if git diff --quiet; then exit 0; fi
