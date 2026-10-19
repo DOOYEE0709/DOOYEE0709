@@ -1,0 +1,31 @@
+name: Sync Gists to README
+on:
+    workflow_dispatch:
+    schedule:
+        # 30 minutes after productive-box (00:00 UTC) and github-stats-box (00:00 / 12:00 UTC)
+        - cron: '30 0,12 * * *'
+    push:
+        branches: main
+        paths:
+            - '.github/scripts/sync-gists.js'
+            - '.github/workflows/sync-gists.yml'
+permissions:
+    contents: write
+jobs:
+    sync:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+            - uses: actions/setup-node@v4
+              with:
+                  node-version: 20
+            - run: node .github/scripts/sync-gists.js
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            - name: Commit if changed
+              run: |
+                  if git diff --quiet; then exit 0; fi
+                  git config user.name 'github-actions[bot]'
+                  git config user.email '41898333+github-actions[bot]@users.noreply.github.com'
+                  git commit -am 'chore: sync gists to README'
+                  git push
