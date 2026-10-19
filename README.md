@@ -63,10 +63,10 @@
 **[DOOYEE's GitHub Stats](https://gist.github.com/DOOYEE0709/bf3bbf4683d899681c691c81caacb2a3)**
 ```text
 ⭐    Total Stars:                                1
-➕    Total Commits:                          1,400
-🔀    Total PRs:                                128
-🚩    Total Issues:                              90
-📦    Contributed to:                            24
+➕    Total Commits:                          1,428
+🔀    Total PRs:                                142
+🚩    Total Issues:                              92
+📦    Contributed to:                            21
 ```
 <!-- GIST-STATS:END -->
 
