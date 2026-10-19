@@ -50,13 +50,7 @@
 ![Top Langs](https://github-readme-stats-beta-brown-34.vercel.app/api/top-langs?username=DooYee0709&layout=compact&bg_color=45,fff3b0,87ceeb&title_color=e67e22&text_color=2c3e50&icon_color=f1c40f&count_private=true&card_width=450&border_radius=20)
 
 <!-- GIST-PRODUCTIVE:START -->
-**[I'm an early 🐤](https://gist.github.com/DOOYEE0709/35d87951dac97313c4d7fc436c18ef0c)**
-```text
-🌞 Morning   156 commits  ███▍░░░░░░░░░░░░░░░░░  16.6%
-🌆 Daytime   377 commits  ████████▍░░░░░░░░░░░░  40.0%
-🌃 Evening   304 commits  ██████▊░░░░░░░░░░░░░░  32.3%
-🌙 Night     105 commits  ██▎░░░░░░░░░░░░░░░░░░  11.1%
-```
+[![I'm an early 🐤](assets/productive.svg)](https://gist.github.com/DOOYEE0709/35d87951dac97313c4d7fc436c18ef0c)
 <!-- GIST-PRODUCTIVE:END -->
 
 <!-- GIST-STATS:START -->

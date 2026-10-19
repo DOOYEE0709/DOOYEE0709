@@ -24,8 +24,9 @@ jobs:
                   GIST_TOKEN: ${{ secrets.GIST_TOKEN }} # PAT; Actions' GITHUB_TOKEN can't read gists
             - name: Commit if changed
               run: |
-                  if git diff --quiet; then exit 0; fi
+                  git add README.md assets
+                  if git diff --cached --quiet; then exit 0; fi
                   git config user.name 'github-actions[bot]'
                   git config user.email '41898333+github-actions[bot]@users.noreply.github.com'
-                  git commit -am 'chore: sync gists to README'
+                  git commit -m 'chore: sync gists to README'
                   git push
