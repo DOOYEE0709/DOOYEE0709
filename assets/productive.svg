@@ -3,7 +3,7 @@
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e67e22; }
     .label { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2c3e50; }
-    .percent { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2c3e50; }
+    .value { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2c3e50; }
   </style>
   <defs>
     <linearGradient id="gradient" gradientTransform="rotate(45)" gradientUnits="userSpaceOnUse">
@@ -19,28 +19,28 @@
       <text class="label" x="175" y="9" text-anchor="end">156 commits</text>
       <rect x="190" y="1" width="170" height="8" rx="4" fill="#2c3e50" fill-opacity="0.12"/>
       <rect x="190" y="1" width="28.22" height="8" rx="4" fill="#e67e22"/>
-      <text class="percent" x="400" y="9" text-anchor="end">16.6%</text>
+      <text class="value" x="400" y="9" text-anchor="end">16.6%</text>
     </g>
     <g transform="translate(25, 25)">
       <text class="label" x="0" y="9">🌆 Daytime</text>
       <text class="label" x="175" y="9" text-anchor="end">377 commits</text>
       <rect x="190" y="1" width="170" height="8" rx="4" fill="#2c3e50" fill-opacity="0.12"/>
       <rect x="190" y="1" width="68.00" height="8" rx="4" fill="#e67e22"/>
-      <text class="percent" x="400" y="9" text-anchor="end">40.0%</text>
+      <text class="value" x="400" y="9" text-anchor="end">40.0%</text>
     </g>
     <g transform="translate(25, 50)">
       <text class="label" x="0" y="9">🌃 Evening</text>
       <text class="label" x="175" y="9" text-anchor="end">304 commits</text>
       <rect x="190" y="1" width="170" height="8" rx="4" fill="#2c3e50" fill-opacity="0.12"/>
       <rect x="190" y="1" width="54.91" height="8" rx="4" fill="#e67e22"/>
-      <text class="percent" x="400" y="9" text-anchor="end">32.3%</text>
+      <text class="value" x="400" y="9" text-anchor="end">32.3%</text>
     </g>
     <g transform="translate(25, 75)">
       <text class="label" x="0" y="9">🌙 Night</text>
       <text class="label" x="175" y="9" text-anchor="end">105 commits</text>
       <rect x="190" y="1" width="170" height="8" rx="4" fill="#2c3e50" fill-opacity="0.12"/>
       <rect x="190" y="1" width="18.87" height="8" rx="4" fill="#e67e22"/>
-      <text class="percent" x="400" y="9" text-anchor="end">11.1%</text>
+      <text class="value" x="400" y="9" text-anchor="end">11.1%</text>
     </g>
   </g>
 </svg>
