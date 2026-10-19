@@ -20,8 +20,6 @@ jobs:
               with:
                   node-version: 20
             - run: node .github/scripts/sync-gists.js
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             - name: Commit if changed
               run: |
                   if git diff --quiet; then exit 0; fi

@@ -9,11 +9,11 @@ const GISTS = [
     { marker: 'GIST-STATS', id: 'bf3bbf4683d899681c691c81caacb2a3' },
 ];
 
+// Unauthenticated on purpose: Actions' GITHUB_TOKEN can't access the Gist API (403), and public gists don't need auth.
 async function fetchGist(id) {
-    const headers = { Accept: 'application/vnd.github+json' };
-    if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
-
-    const res = await fetch(`https://api.github.com/gists/${id}`, { headers });
+    const res = await fetch(`https://api.github.com/gists/${id}`, {
+        headers: { Accept: 'application/vnd.github+json' },
+    });
     if (!res.ok) throw new Error(`gist ${id}: ${res.status} ${res.statusText}`);
 
     const gist = await res.json();
